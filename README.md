@@ -22,6 +22,8 @@ Completed so far:
 - Descriptive statistics and normality testing across the full universe
 - Four exploratory visualizations (normalized prices, return distributions,
   risk-return scatter, correlation heatmap)
+- Risk metrics: VaR (historical, Gaussian, Cornish-Fisher), Expected Shortfall,
+  drawdown, and out-of-sample VaR backtesting with the Kupiec test
 
 ---
 
